@@ -1,4 +1,4 @@
-#Nginx Boilerplate 
+# Nginx Boilerplate 
 Awesome Nginx configuration template and a set of handy must-have snippets.
 
 ***
